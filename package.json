@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "js_goit_project_ct",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://nitskayl.github.io/js_goit_project_ct",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /js_goit_project_ct/"
   },
   "repository": {
     "type": "git",
